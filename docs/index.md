@@ -19,10 +19,7 @@ Esta documentação centraliza informações sobre nossos sistemas e aplicaçõe
 
 ## Destaques
 
-!!! success "Nossos Diferenciais"
-    * Documentação sempre atualizada
-    * Padrão visual moderno
-    * Processo de colaboração facilitado
+
 
 ---
 
