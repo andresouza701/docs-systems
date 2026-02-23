@@ -1,0 +1,16 @@
+site_name: Meu Projeto
+site_url: https://andresouza701.github.io/docs-systems
+repo_name: andresouza701/docs-systems
+repo_url: https://github.com/andresouza701/docs-systems
+site_dir: site
+theme:
+  name: material
+nav:
+  - Home: index.md
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
