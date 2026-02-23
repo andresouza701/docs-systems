@@ -34,5 +34,5 @@ Abra uma [issue](https://github.com/SEU_USUARIO/SEU_REPO/issues) ou envie um Pul
 ---
 
 <footer style="text-align:center; font-size:smaller;">
-Desenvolvido com ❤️ usando MkDocs Material.
+MkDocs Material.
 </footer>
