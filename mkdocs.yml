@@ -19,3 +19,6 @@ nav:
   - Início: index.md
   - Sistemas: sistemas.md
   - Aplicações: aplicacoes.md
+
+extra_css:
+  - assets/extra.css
