@@ -2,6 +2,19 @@ site_name: Documentação de Sistemas e Aplicações
 theme:
   name: material
   language: pt
+  palette:
+    - scheme: default
+      primary: indigo      # Cor principal (barra do topo, links)
+      accent: cyan         # Cor de destaque (botões, etc.)
+    - scheme: slate        # Dark mode
+      primary: indigo
+      accent: cyan
+  font:
+    text: Roboto           # Altere por outra fonte, se preferir
+    code: Fira Mono
+  logo: assets/logo.png    # Caminho do logo (adicione o arquivo em docs/assets/logo.png)
+  favicon: assets/favicon.ico
+
 nav:
   - Início: index.md
   - Sistemas: sistemas.md
