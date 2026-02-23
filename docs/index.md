@@ -1,35 +1,31 @@
-# Bem-vindo à Documentação
+# ![Logo](assets/logo.png)
 
-![Logo da empresa ou do projeto](https://placehold.co/200x60?text=SUA+LOGO)
+# Documentação dos Sistemas
 
-::: tip
-Esta documentação centraliza informações sobre nossos sistemas e aplicações. Sinta-se à vontade para explorar e contribuir!
-:::
+Bem-vindo! Aqui encontra tudo sobre os sistemas, aplicações e integrações do time.
 
 ---
 
-## Sumário
+## Acesse rápido
 
-- [Sistemas](sistemas.md): Conheça cada sistema, sua arquitetura, integrações e endpoints.
-- [Aplicações](aplicacoes.md): Detalhes sobre aplicações web e mobile, fluxos de processo e integrações.
-- [FAQ](faq.md): Perguntas frequentes e soluções de problemas comuns.
-- [Contato](contato.md): Como contribuir ou solicitar suporte.
-
----
-
-## Destaques
-
-
+- [Sistemas](sistemas.md)
+- [Aplicações](aplicacoes.md)
+- [FAQ](faq.md)
 
 ---
 
-## Contribua
-
-Quer sugerir melhorias ou reportar um erro?  
-Abra uma [issue](https://github.com/SEU_USUARIO/SEU_REPO/issues) ou envie um Pull Request.
+!!! info "Colabore"
+    Nosso guia é mantido em constante evolução — envie sugestões ou reporte problemas!
 
 ---
 
-<footer style="text-align:center; font-size:smaller;">
-MkDocs Material.
+<div style="display: flex; gap: 20px;">
+  <img src="assets/screenshot1.png" alt="Screenshot sistema" width="400"/>
+  <img src="assets/screenshot2.png" alt="Screenshot app" width="400"/>
+</div>
+
+<footer>
+  <br>
+  <em> <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">MkDocs Material</a>.</em>
+  <br>
 </footer>
