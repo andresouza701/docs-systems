@@ -1,0 +1,18 @@
+h1, .md-typeset h1 {
+    color: #3949ab; /* Indigo */
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    transition: color 0.2s;
+}
+
+.md-typeset a:hover {
+    color: #00bcd4; /* Cyan */
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.9em;
+}
