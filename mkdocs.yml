@@ -22,3 +22,16 @@ nav:
 
 extra_css:
   - assets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/SeuUsuario
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/SeuLink
+  footer: |
+    <small>
+      <em>Documentação mantida pelo time de Engenharia &copy; {{ now.year }}</em>
+      <br>
+      Powered by <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">MkDocs Material</a>
+    </small>
