@@ -1,0 +1,8 @@
+services:
+  mkdocs:
+    image: squidfunk/mkdocs-material
+    ports:
+    - "8001:8001"
+    volumes:
+    - .:/docs
+    command: serve -a 0.0.0.0:8001
